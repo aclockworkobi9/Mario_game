@@ -1,5 +1,5 @@
 Hello everyone, reminisce about the excitement of 90s gaming? Let's transport ourselves back in time to relive those thrilling moments! Experience the nostalgia of Mario as we deploy the game on Kubernetes. Get ready with your controllers because it's time to play!
-Super Mario holds a special place in the hearts of many as a classic game. In this tutorial, we'll delve into the process of deploying a Super Mario game on Amazon's Elastic Kubernetes Service (EKS). By leveraging Kubernetes, we can seamlessly orchestrate the deployment of the game on AWS EKS, ensuring scalability, reliability, and effortless management
+Super Mario holds a special place in the hearts of many as a classic game. We'll delve into the process of deploying a Super Mario game on Amazon's Elastic Kubernetes Service (EKS). By leveraging Kubernetes, we can seamlessly orchestrate the deployment of the game on AWS EKS, ensuring scalability, reliability, and effortless management
 
 **Requirements for this project:** 
 Certainly! Here are the instructions for the specified prerequisites:
