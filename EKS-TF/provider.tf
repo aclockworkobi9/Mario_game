@@ -8,6 +8,7 @@ terraform {
 }
 
 # Configure the AWS Provider
+# Provide region where you want to create EKS
 provider "aws" {
-  region = "ap-south-1"
+  region = "us-east-1"
 }
