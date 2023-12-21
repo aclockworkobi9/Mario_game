@@ -65,8 +65,7 @@ It will change the color of the file to yellow or green.
      terraform --version
      aws --version
      kubectl --version
-     docker --version
-    ```
+     docker --version```
   Make sure to change bucket name in backend.tf file.![terraform_backend](https://github.com/aclockworkobi9/Mario_game/assets/146419037/d556decb-55f8-4de3-80c8-54bfc017f61e)
   
 
